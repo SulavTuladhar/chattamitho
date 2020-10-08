@@ -207,7 +207,7 @@ nav ul a {
   margin-top: -1%;
   height: 90vh;
   background-color: #0466C8;
-  width: 100vw;
+ 
 }
 
 .menu h1 {
@@ -474,7 +474,7 @@ nav ul a {
   }
   .testinominals-content {
     margin-left: 2%;
-    width: 100vw;
+    
   }
   .t-cards {
     margin-bottom: 5%;
@@ -492,9 +492,7 @@ nav ul a {
 }
 
 @media screen and (max-width: 375px) {
-  body {
-    width: 100vw;
-  }
+  
   .top-content {
     height: 40%;
   }
